@@ -1,0 +1,26 @@
+{
+	"name": "szr-blue-dark",
+	"displayName": "Szr-Blue-Dark",
+	"description": "A Dark-Blue Style Theme For VSCode",
+	"version": "0.0.1",
+	"publisher": "Samxxzr",
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+		{
+			"label": "Szr Blue Dark",
+			"uiTheme": "vs-dark",
+			"path": "./themes/Szr Blue Dark-color-theme.json"
+		}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/samxxzr/Szr-Dark-Blue"
+	}
+}
