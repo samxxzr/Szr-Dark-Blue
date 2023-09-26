@@ -2,7 +2,7 @@
 	"name": "szr-blue-dark",
 	"displayName": "Szr-Blue-Dark",
 	"description": "A Dark-Blue Style Theme For VSCode",
-	"version": "0.0.2",
+	"version": "0.0.1",
 	"publisher": "Samxxzr",
 	"engines": {
 		"vscode": "^1.82.0"
